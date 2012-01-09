@@ -1,0 +1,5 @@
+Directory:
+
+Add.ggb				C=A+B
+Multiply.ggb			C=A*B/D
+ParabolaConstruction		Y=X^2 directrix: AB focal: F
